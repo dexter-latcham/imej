@@ -1,4 +1,7 @@
 # IMEJ
+
+![example](./assets/example.gif)
+
 IMEJ is a software renderer, implementing a fixed-function 3D graphics pipeline in C.
 This is designed with an emphasis on modularity and portability.
 Completed as part of a third year Computer Science project, this demonstrated an understanding of computer graphics, linear algebra and systems programming.
@@ -49,7 +52,7 @@ The same rendering pipeline can drive multiple output backends:
 
 Export rendered frames directly to PPM images.
 
-![example](./assets/example.gif)
+![3D sin wave plot](./assets/sinGraph.png)
 
 ---
 
@@ -78,7 +81,6 @@ Deployed on a Micro:bit driving an external TFT LCD display, demonstrating suita
 ---
 
 ## Example Output
-![3D sin wave plot](./assets/sinGraph.png)
 
 ---
 
