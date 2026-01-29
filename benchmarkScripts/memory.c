@@ -1,6 +1,6 @@
 #include "../include/imej.h"
 #include "../include/window.h"
-#include "../extras/cube.h"
+#include "../include/extras/cube.h"
 #include <stdio.h>
 #include <time.h>
 #define DIMS 500

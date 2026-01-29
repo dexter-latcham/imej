@@ -1,6 +1,6 @@
 #include "../include/imej.h"
 #include "../include/window.h"
-#include "../extras/cube.h"
+#include "../include/extras/cube.h"
 #include <math.h>
 #include <unistd.h>
 #include <stdio.h>

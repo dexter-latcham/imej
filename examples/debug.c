@@ -1,7 +1,7 @@
 #include "../include/imej.h"
 #include "../include/window.h"
-#include "../extras/frustum.h"
-#include "../extras/cube.h"
+#include "../include/extras/frustum.h"
+#include "../include/extras/cube.h"
 
 #include <string.h>
 #include <math.h>

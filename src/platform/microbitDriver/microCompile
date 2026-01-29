@@ -25,7 +25,7 @@ cp ../include/colour.h ../microbit/microbit-v2-samples/source/include/colour.h
 cp ../include/vectors.h ../microbit/microbit-v2-samples/source/include
 cp ../include/window.h ../microbit/microbit-v2-samples/source/include
 
-cp ../extras/cube.h ../microbit/microbit-v2-samples/source/include
+cp ../include/extras/cube.h ../microbit/microbit-v2-samples/source/include
 
 cp microWindow.cpp ../microbit/microbit-v2-samples/source/src
 cp main.c ../microbit/microbit-v2-samples/source/main.c

@@ -1,5 +1,5 @@
 #include "../include/imej.h"
-#include "../extras/graph.h"
+#include "../include/extras/graph.h"
 #include <string.h>
 #include <math.h>
 #include <time.h>
