@@ -5,19 +5,19 @@
 - Several possible uses of this framebuffer are included in the imej/examples directory
 
 
-![example](./example.gif)
+![example](./assets/example.gif)
 
 
 ## Provided output drivers
 
 - frame export as PPM images
-![many utah teapots](./pots.png)
+![many utah teapots](./assets/pots.png)
 
 - terminal ascii render
-![teapot drawn in a terminal](./term.png)
+![teapot drawn in a terminal](./assets/term.png)
 
 - X11 gui
-![3D sin wave plot](./sinGraph.png)
+![3D sin wave plot](./assets/sinGraph.png)
 
 - microbit tft display 
-![running on a microbit](./microbit.jpg)
+![running on a microbit](./assets/microbit.jpg)
